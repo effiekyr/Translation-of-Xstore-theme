@@ -28,7 +28,7 @@ msgid ""
 "have typed the current URL."
 msgstr ""
 "Λυπούμαστε, η σελίδα που ψάχνετε δεν βρέθηκε. Παρακαλούμε, βεβαιωθείτε ότι "
-"ππληκτρολογήσατε το έγκυρο URL."
+"πληκτρολογήσατε το έγκυρο URL."
 
 #: 404.php:22
 msgid "Go to home page"
@@ -40,15 +40,15 @@ msgstr "Κοινοποίηση"
 
 #: attachment.php:51 index.php:40 single.php:144
 msgid "No posts were found!"
-msgstr ""
+msgstr "Δεν βρέθηκαν άρθρα!"
 
 #: bbpress/form-search.php:14
 msgid "Search for:"
-msgstr ""
+msgstr "Αναζήτηση για:"
 
 #: bbpress/form-search.php:16
 msgid "Search on our forum"
-msgstr ""
+msgstr "Αναζήτηση στο forum"
 
 #: bbpress/form-search.php:17 framework/template-elements.php:556
 #: searchform.php:11 sidebar.php:22 woosearchform.php:35
@@ -57,40 +57,40 @@ msgstr "Αναζήτηση"
 
 #: blank.php:20 page.php:30 single-etheme_portfolio.php:30
 msgid "No pages were found!"
-msgstr ""
+msgstr "Δεν βρέθηκαν σελίδες"
 
 #: comments.php:5
 msgid "You cannot access this file"
-msgstr ""
+msgstr "Δεν έχετε πρόσβαση σε αυτό το αρχείο"
 
 #: comments.php:12
 msgid ""
 "This post is password protected. Enter the password to view the comments."
-msgstr ""
+msgstr "Αυτό το άρθρο είναι προστατευμένο. Εισάγετε τον κωδικό για να δείτε τα σχόλια."
 
 #: comments.php:19 framework/widgets/recent-posts.php:76
 msgid "No Comments"
-msgstr ""
+msgstr "Δεν υπάρχουν Σχόλια"
 
 #: comments.php:19
 msgid "One Comment"
-msgstr ""
+msgstr "Ένα Σχόλιο"
 
 #: comments.php:19 framework/widgets/recent-posts.php:76
 msgid "% Comments"
-msgstr ""
+msgstr "% Σχόλια"
 
 #: comments.php:28
 msgid "&larr; Older Comments"
-msgstr ""
+msgstr "&larr; Παλαιότερα Σχόλια"
 
 #: comments.php:29
 msgid "Newer Comments &rarr;"
-msgstr ""
+msgstr "Νεότερα Σχόλια &rarr;"
 
 #: comments.php:39
 msgid "Comments are closed"
-msgstr ""
+msgstr "Τα σχόλια είναι κλειστά"
 
 #: comments.php:45
 msgid "Leave a reply"
@@ -187,7 +187,7 @@ msgstr ""
 
 #: framework/post-types/portfolio.php:163
 msgid "Show All"
-msgstr ""
+msgstr "Προβολή Όλων"
 
 #: framework/post-types/portfolio.php:196
 msgid "No projects were found!"
@@ -195,11 +195,11 @@ msgstr ""
 
 #: framework/shortcodes.php:313
 msgid "Previous"
-msgstr ""
+msgstr "Προηγούμενο"
 
 #: framework/shortcodes.php:324
 msgid "Next"
-msgstr ""
+msgstr "Επόμενο"
 
 #: framework/shortcodes.php:388
 msgid "Twitter"
@@ -820,11 +820,11 @@ msgstr ""
 
 #: framework/shortcodes/countdown.php:51
 msgid "hours"
-msgstr ""
+msgstr "ώρες"
 
 #: framework/shortcodes/countdown.php:61
 msgid "mins"
-msgstr ""
+msgstr "λεπτά"
 
 #: framework/shortcodes/countdown.php:71
 msgid "secs"
